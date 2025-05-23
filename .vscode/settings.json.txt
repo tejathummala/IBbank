@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\CGSPL\\anaconda3\\python.exe",
+  "terminal.integrated.shellArgs.windows": [
+    "/K",
+    "C:\\Users\\CGSPL\\anaconda3\\Scripts\\activate.bat base"
+  ],
+  "python.terminal.activateEnvironment": true
+}
